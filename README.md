@@ -1,4 +1,3 @@
-cat > /home/claude/reports-app/README.md << 'ENDOFFILE'
 # ReportLens
 
 A role-gated report management platform built with **Next.js 16 App Router**, **TypeScript**, and **SCSS Modules** — featuring server-side search & sort, AI-powered report summaries.
